@@ -76,11 +76,6 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vyahruti&theme=algolia&no-frame=true&column=7" />
-</p>
 
 ---
 
