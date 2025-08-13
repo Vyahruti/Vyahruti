@@ -26,10 +26,10 @@
 
 - 🔭 I’m currently working on: *Smart Basketball Scoreboard (CV + IoT) & trading strategy backtests*
 - 🌱 I’m currently learning: *MERN stack patterns, LLM-backed RAG, and deployment on AWS*
-- 💬 Ask me about: Python, Java, React.js, MongoDB, AWS, YOLOv8, LangChain
-- 🏅 Highlights: **1st Prize** at IIT Bombay Techfest (Dhan) for trading strategy project; Live demo selection for Smart Basketball Scoreboard. :contentReference[oaicite:1]{index=1}
+- 💬 Ask me about: Python, Java, React.js, MongoDB, AWS, YOLOv8
+- 🏅 Highlights: **1st Prize** at IIT Bombay Techfest (Dhan) for trading strategy project; Live demo selection for Smart Basketball Scoreboard. 
 - 🎯 Goal: Build real-world products blending AI + full-stack craftsmanship.
-- 📫 Reach me at: **vyahrutechnical4@gmail.com**. :contentReference[oaicite:2]{index=2}
+- 📫 Reach me at: **vyahrutechnical4@gmail.com**. 
 
 ---
 
