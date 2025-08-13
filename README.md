@@ -85,7 +85,7 @@
 ## 📌 Featured Projects
 
 - 🏀 **Smart Basketball Scoreboard** — Real-time hoop & ball detection with **YOLOv8**, scoring logic, and IoT integration (Arduino + RF) driving an LED display.  
-  → Repo: [Smart-Basket-Ball-Score-Board](https://github.com/Vyahruti/Smart-Basket-Ball-Score-Board)  · Live demo selection highlight. :contentReference[oaicite:4]{index=4
+  → Repo: [Smart-Basket-Ball-Score-Board](https://github.com/Vyahruti/Smart-Basket-Ball-Score-Board)  · Live demo selection highlight. 
 
 - 📈 **IITB Alpha Trend Builder** — Dual SMA crossover with SL/TP, backtests across instruments, and performance via Sharpe Ratio; **1st Prize at IIT Bombay Techfest (Dhan)**.  
   → Repo: [IITB-Alpha-Trend-Builder](https://github.com/Vyahruti/IITB-Alpha-Trend-Builder) · Award per resume. :contentReference[oaicite:6]{index=6}
