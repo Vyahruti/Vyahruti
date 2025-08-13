@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Vyahruti 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;RAG+%2F+LLM+Enthusiast;Hackathon+Winner+(IIT+B)+;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;AI Enthusiast;Hackathon+Winner+(IIT+B)+;Always+learning+new+things!">
 </p>
 
 <p align="center">
