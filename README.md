@@ -95,7 +95,7 @@
 - 🍽️ **Canteen Management App** — Full-stack food ordering with vendor dashboard, MongoDB schemas, REST APIs, React + Bootstrap UI with Axios. *(Repo WIP / private)* 
 - 🛍️ **Myntra Social Shopping (Hackathon)** — Wishlist, Occasion categories, Try-On UI; progressed to Implementation Round. *(Prototype/notes)* 
 
-- 🤖 **GenAI RAG Assistant** — FAISS + LangChain, FastAPI backend on AWS EC2 for private-doc QA. *(Prototype/notes)* 
+
 ---
 
 ## ✍️ Latest Blog Posts
