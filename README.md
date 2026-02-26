@@ -86,7 +86,7 @@
   - Performed EDA, feature engineering, and model comparison (Logistic Regression, Random Forest).  
   - Built a user-friendly frontend for risk assessment.  
   - Focused on healthcare AI and early detection support.  
-  → Repo: https://github.com/Vyahruti/PCOS-Risk-Predictor  
+  → Repo: https://github.com/Vyahruti/iomp-2 
 
 - 🍽️ **Canteen Management App** — Full-stack food ordering with vendor dashboard, MongoDB schemas, REST APIs, React + Bootstrap UI with Axios. *(Repo WIP / private)*  
 
